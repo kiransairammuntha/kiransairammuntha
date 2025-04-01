@@ -18,9 +18,9 @@ I am a recent graduate with a strong foundation in cybersecurity, eager to start
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Detection and Analysis                 | <a href="https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory/blob/main/README.md">Simple Elastic SIEM Lab</a>|
+| Threat Detection and Analysis                 | <a href=">Simple Elastic SIEM Lab</a>|
 | Phishing Attack Simulation                    | <a href="https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish/blob/main/README.md">Phishing Attack Simulation with Gophish</a>|
-| Secure Access and Identity Management         | <a href="https://coursera.org/verify/E47BYKJ7FW2N ">Secure Access with Azure Active Directory</a>|
+| Secure Access and Identity Management         | <a href="https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory/blob/main/README.md">Secure Access with Azure Active Directory</a>|
 | Threat Hunting and Incident Response          | <a href="https://github.com/kiransairammuntha/Introduction-to-Threat-Hunting/blob/main/README.md">Introduction to Threat Hunting</a>|
 | Security Operations Center (SOC) Operations                 | SOC Lab Level 1|
 
@@ -57,7 +57,7 @@ I am a recent graduate with a strong foundation in cybersecurity, eager to start
 
 ## Projects
 
-- <a href="https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory/blob/main/README.md">Simple Elastic SIEM Lab</a>
+- <a href="https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory/blob/main/README.md">Secure Access with Azure Active Directory</a>
 
 - <a href="https://github.com/kiransairammuntha/Introduction-to-Threat-Hunting/blob/main/README.md">Introduction to Threat Hunting</a>
 
