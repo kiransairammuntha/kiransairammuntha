@@ -18,7 +18,7 @@ I am a recent graduate with a strong foundation in cybersecurity, eager to start
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Detection and Analysis                 | <a href="https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2">Simple Elastic SIEM Lab</a>|
+| Threat Detection and Analysis                 | <a href="https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory/blob/main/README.md">Simple Elastic SIEM Lab</a>|
 | Phishing Attack Simulation                    | <a href="https://alphasec.io/phishing-attack-simulation-with-gophish/">Phishing Attack Simulation with Gophish</a>|
 | Secure Access and Identity Management         | <a href="https://coursera.org/verify/E47BYKJ7FW2N ">Secure Access with Azure Active Directory</a>|
 | Threat Hunting and Incident Response          | Introduction to Threat Hunting|
@@ -57,7 +57,7 @@ I am a recent graduate with a strong foundation in cybersecurity, eager to start
 
 ## Projects
 
-- Secure Access with Azure Active Directory
+- <a href="https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory/blob/main/README.md">Simple Elastic SIEM Lab</a>
 
 - Introduction to Threat Hunting
 
