@@ -34,7 +34,7 @@ Cybersecurity graduate passionate about threat detection, incident response, and
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
 </div>
 
 ### SIEM
@@ -47,7 +47,9 @@ Cybersecurity graduate passionate about threat detection, incident response, and
 ## Security Tools
 <div> 
      <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C7B?&style=for-the-badge&logo=Kali&logoColor=white" /> <img src="https://img.shields.io/badge/-Burp_Suite-9B4F96?&style=for-the-badge&logo=Burp&logoColor=white" /> <img src="https://img.shields.io/badge/-FTK_Imager-00B9E4?&style=for-the-badge&logo=FTK&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure_AD-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure_AD-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />  <img src="https://img.shields.io/badge/-Metasploit-2596be?&style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-EnCase-2E8B57?&style=for-the-badge&logo=databricks&logoColor=white" />
+
+
 
 </div>
 
