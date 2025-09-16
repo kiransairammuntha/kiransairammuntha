@@ -3,13 +3,12 @@
 
 
 
-I am a recent cybersecurity graduate with a strong foundation in threat detection, network security, and incident response, ready to tackle real-world challenges.
-
+Aspiring Cybersecurity Analyst | M.S. in Cybersecurity Operations | Information & Network Security | Hands-on SIEM, SOC Labs & Threat Detection 
 
 ## Objective
 
 
-I am a recent graduate with a strong foundation in cybersecurity, eager to start my career as a Junior Cybersecurity Analyst. I aim to apply my knowledge in threat detection, network security, and incident response while gaining hands-on experience and growing professionally in the field.
+Cybersecurity graduate passionate about threat detection, incident response, and security operations. Skilled in SIEM tools, phishing simulations, and vulnerability assessments, with projects in SOC operations, Elastic SIEM, and Azure AD. Eager to share labs, research, and hands-on work that strengthen digital defenses.
 
 
 
