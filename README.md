@@ -69,7 +69,7 @@ Cybersecurity graduate passionate about threat detection, incident response, and
 
 - <a href="https://github.com/kiransairammuntha/SOC-Lab-Level-1/blob/main/README.md">SOC Lab Level 1</a>
 
-## Publication
+
 
 ## 📄 Publications
 
