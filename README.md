@@ -72,9 +72,10 @@ Cybersecurity graduate passionate about threat detection, incident response, and
 ## Publication
 
 ## 📄 Publications
-- **Securing Digital Communications: Quantum and Post-Quantum Cryptography**  
-  *Muntha, K., & Ashogbon, A. (2025).*  
-  Journal of Electrical and Computational Innovations, 2(2), 1–10.  
-  [Read Here](your-publication-link)
+
+- **Muntha, K., & Ashogbon, A. (2025). Securing Digital Communications: Quantum and Post-Quantum Cryptography.**  
+  *Journal of Electrical and Computational Innovations, 2(2), 1–10.*  
+  [Read Here](https://www.opastpublishers.com/open-access-articles/securing-digital-communications-quantum-and-postquantum-cryptography.pdf)
+
 
 
