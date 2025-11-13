@@ -3,13 +3,13 @@
 
 
 
-Aspiring Cybersecurity Analyst | M.S. in Cybersecurity Operations | Information & Network Security | Hands-on SIEM, SOC Labs & Threat Detection 
+Aspiring Cybersecurity Analyst | M.S. in Cybersecurity Operations | Security Operations | Threat Detection | SIEM
+ 
 
 ## Objective
 
 
-Cybersecurity graduate passionate about threat detection, incident response, and security operations. Skilled in SIEM tools, phishing simulations, and vulnerability assessments, with projects in SOC operations, Elastic SIEM, and Azure AD. Eager to share labs, research, and hands-on work that strengthen digital defenses.
-
+Aspiring cybersecurity analyst with a Master’s in Cyber/Electronic Operations and Warfare, focused on threat detection and SOC operations. Experienced with SIEM platforms (Elastic, Splunk, Microsoft Sentinel), phishing simulations, and vulnerability assessment. Committed to implementing SOC operations and NIST-aligned security strategies to identify and mitigate cyber threats, while collaborating to strengthen organizational cybersecurity posture.
 
 
 ## Skills
