@@ -29,7 +29,7 @@ Aspiring cybersecurity analyst with a Master’s in Cyber/Electronic Operations 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Network%20Security-007ACC?&style=for-the-badge&logo=network-security&logoColor=white" /> <img src="https://img.shields.io/badge/-IDS%2FIPS-FF6F00?&style=for-the-badge&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/-Firewalls-0052CC?&style=for-the-badge&logo=checkpoint&logoColor=white" /> 
 </div>
 
 ### Endpoint
@@ -41,17 +41,30 @@ Aspiring cybersecurity analyst with a Master’s in Cyber/Electronic Operations 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-SIEM-4B0082?&style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/-SIEM%20Monitoring-6A0DAD?&style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic%20SIEM-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
 </div>
 
 ## Security Tools
 <div> 
-     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C7B?&style=for-the-badge&logo=Kali&logoColor=white" /> <img src="https://img.shields.io/badge/-Burp_Suite-9B4F96?&style=for-the-badge&logo=Burp&logoColor=white" /> <img src="https://img.shields.io/badge/-FTK_Imager-00B9E4?&style=for-the-badge&logo=FTK&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure_AD-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />  <img src="https://img.shields.io/badge/-Metasploit-2596be?&style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-EnCase-2E8B57?&style=for-the-badge&logo=databricks&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C7B?&style=for-the-badge&logo=Kali&logoColor=white" /> <img src="https://img.shields.io/badge/-Burp_Suite-9B4F96?&style=for-the-badge&logo=Burp&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Azure_AD-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />  <img src="https://img.shields.io/badge/-Metasploit-2596be?&style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-ServiceNow-00B3B3?&style=for-the-badge&logo=servicenow&logoColor=white" />
+<div>
 
-
-
+## Risk & Compliance
+<div>
+      <img src="https://img.shields.io/badge/-Risk%20%26%20Compliance-0A0A0A?&style=for-the-badge&logo=nist&logoColor=white" /> <img src="https://img.shields.io/badge/-Security%20Operations-1F618D?&style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/-Threat%20Detection-FF5733?&style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/-Incident%20Response-2874A6?&style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/-Vulnerability%20Assessment-BA4A00?&style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/-Penetration%20Testing-943126?&style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/-Information%20Security-117A65?&style=for-the-badge&logo=security&logoColor=white" />
 </div>
+
+## Programming / Scripting
+<div>
+     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=database&logoColor=white" /> <img src="https://img.shields.io/badge/-C-00599C?&style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+## Digital Forensic Tools
+<div>
+     <img src="https://img.shields.io/badge/-IrfanView-005EB8?&style=for-the-badge&logo=irfanview&logoColor=white" /> <img src="https://img.shields.io/badge/-FTK%20Imager-008080?&style=for-the-badge&logo=accessdata&logoColor=white" /> <img src="https://img.shields.io/badge/-Autopsy-DC143C?&style=for-the-badge&logo=autopsy&logoColor=white" /> <img src="https://img.shields.io/badge/-WinHex-483D8B?&style=for-the-badge&logo=winhex&logoColor=white" /> <img src="https://img.shields.io/badge/-OSForensics-4B0082?&style=for-the-badge&logo=osforensics&logoColor=white" /> <img src="https://img.shields.io/badge/-Magnet%20AXIOM-FF4500?&style=for-the-badge&logo=magnetaxiiom&logoColor=white" /> <img src="https://img.shields.io/badge/-EnCase-000080?&style=for-the-badge&logo=encase&logoColor=white" /> <img src="https://img.shields.io/badge/XWays_Forensics-228B22?style=for-the-badge" />
+<div>     
+
 
 ## Certifications
 
