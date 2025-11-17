@@ -1,16 +1,14 @@
-# Hello, I'm Kiransairam Muntha
+# Hello, I'm Kiransairam Muntha  👋
 <a href="https://www.linkedin.com/in/kiransairammuntha/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-
-Aspiring Cybersecurity Analyst | M.S. in Cybersecurity Operations | Security Operations | Threat Detection | SIEM
+Aspiring Cybersecurity Analyst | SOC & Threat Detection | SIEM | Phishing & Incident Response | MS Cyber/Electronic Operations | ISC2 CC |  Microsoft & Cisco Certified |
  
 
 ## Objective
 
 
-Aspiring cybersecurity analyst with a Master’s in Cyber/Electronic Operations and Warfare, focused on threat detection and SOC operations. Experienced with SIEM platforms (Elastic, Splunk, Microsoft Sentinel), phishing simulations, and vulnerability assessment. Committed to implementing SOC operations and NIST-aligned security strategies to identify and mitigate cyber threats, while collaborating to strengthen organizational cybersecurity posture.
-
+I’m Kiransairam Muntha, an aspiring Cybersecurity Analyst with an M.S. in Cyber/Electronic Operations and Warfare. I have hands-on experience in SOC operations, threat detection, SIEM platforms (Elastic, Splunk, Microsoft Sentinel), phishing simulations, threat hunting, and incident response through academic projects and labs. I am eager to apply my skills to help organizations strengthen their cybersecurity posture, detect and mitigate threats, and implement effective security strategies aligned with best practices. Committed to continuous learning and contributing value from day one.
 
 ## Skills
 
