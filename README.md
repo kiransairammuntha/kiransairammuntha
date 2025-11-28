@@ -5,7 +5,7 @@
 Aspiring Cybersecurity Analyst | SOC & Threat Detection | SIEM | Phishing & Incident Response | MS Cyber/Electronic Operations | ISC2 CC |  Microsoft & Cisco Certified |
  
 
-## Objective
+## Summary
 
 
 I’m Kiransairam Muntha, an aspiring Cybersecurity Analyst with an M.S. in Cyber/Electronic Operations and Warfare. I have hands-on experience in SOC operations, threat detection, SIEM platforms (Elastic, Splunk, Microsoft Sentinel), phishing simulations, threat hunting, and incident response through academic projects and labs. I am eager to apply my skills to help organizations strengthen their cybersecurity posture, detect and mitigate threats, and implement effective security strategies aligned with best practices. Committed to continuous learning and contributing value from day one.
