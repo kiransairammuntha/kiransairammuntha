@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/kiransairammuntha/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Aspiring Cybersecurity Analyst | SOC & Threat Detection | SIEM | Phishing & Incident Response | MS Cyber/Electronic Operations | ISC2 CC |  Microsoft & Cisco Certified |
+Aspiring Cybersecurity Analyst | SOC & Threat Detection | SIEM | Phishing & Incident Response | MS Cyber/Electronic Operations | Security+ Certified
  
 
 ## Summary
