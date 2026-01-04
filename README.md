@@ -86,6 +86,7 @@ My transition from **Mechanical Engineering** sharpened my systems-thinking, deb
 
 | Skill | Associated Project |
 |-------|-------------------|
+| 🤖 **AI-Powered SIEM & SOC Automation** | [AI-Driven SIEM Analyzer](https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer) |
 | 🔍 **Threat Detection & SIEM Analysis** | [Elastic SIEM Lab](https://github.com/kiransairammuntha/A-Simple-Elastic-SIEM-Lab) |
 | 🎣 **Phishing Attack Simulation** | [Gophish Phishing Simulation](https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish) |
 | 🔐 **Identity & Access Management** | [Azure Active Directory Security](https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory) |
@@ -165,6 +166,31 @@ My transition from **Mechanical Engineering** sharpened my systems-thinking, deb
 ---
 
 ## 📂 Featured Projects
+
+### 🌟 Flagship Project
+
+<div align="center">
+  <a href="https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer">
+    <img src="https://img.shields.io/badge/-🤖_AI--Driven_SIEM_Analyzer-FF4500?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <sub><b>AI-powered SIEM/SOC platform correlating 10,000+ real-time events | MTTR reduced from hours to &lt;60 seconds | MITRE ATT&CK mapped | Azure deployed</b></sub>
+</div>
+
+<br>
+
+**Key Achievements:**
+- 🔍 Built with **Wazuh, Elasticsearch, Kibana, Node.js** — ingesting & correlating 10,000+ real-time security events
+- 🎯 **MITRE ATT&CK mapped** detection for brute force, malware, privilege escalation, persistence
+- 🤖 **Claude AI automation** — IOC extraction, alert summarization, auto-generated iptables rules
+- ⚡ **MTTR reduced from hours to under 60 seconds** through automated workflows
+- ☁️ **Azure deployed** with SOC dashboards, one-click IP blocking, compliance logging (SOC 2, HIPAA, PCI-DSS)
+
+---
+
+### Other Projects
 
 <table>
   <tr>
