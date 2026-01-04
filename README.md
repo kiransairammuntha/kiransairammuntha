@@ -86,7 +86,7 @@ My transition from **Mechanical Engineering** sharpened my systems-thinking, deb
 
 | Skill | Associated Project |
 |-------|-------------------|
-| 🤖 **AI-Powered SIEM & SOC Automation** | [AI-Driven SIEM Analyzer](https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer) |
+| 🤖 **AI-Powered SIEM & SOC Automation** | [AI-Driven SIEM Analyzer]([https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer](https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response) |
 | 🔍 **Threat Detection & SIEM Analysis** | [Elastic SIEM Lab](https://github.com/kiransairammuntha/A-Simple-Elastic-SIEM-Lab) |
 | 🎣 **Phishing Attack Simulation** | [Gophish Phishing Simulation](https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish) |
 | 🔐 **Identity & Access Management** | [Azure Active Directory Security](https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory) |
