@@ -86,7 +86,7 @@ My transition from **Mechanical Engineering** sharpened my systems-thinking, deb
 
 | Skill | Associated Project |
 |-------|-------------------|
-| 🤖 **AI-Powered SIEM & SOC Automation** | [AI-Driven SIEM Analyzer](https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response) |
+| 🤖 **AI-Powered SIEM & SOC Automation** | [AI-Driven SIEM Analyzer](https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer) |
 | 🔍 **Threat Detection & SIEM Analysis** | [Elastic SIEM Lab](https://github.com/kiransairammuntha/A-Simple-Elastic-SIEM-Lab) |
 | 🎣 **Phishing Attack Simulation** | [Gophish Phishing Simulation](https://github.com/kiransairammuntha/Phishing-Attack-Simulation-with-Gophish) |
 | 🔐 **Identity & Access Management** | [Azure Active Directory Security](https://github.com/kiransairammuntha/Secure-Access-with-Azure-Active-Directory) |
@@ -97,34 +97,50 @@ My transition from **Mechanical Engineering** sharpened my systems-thinking, deb
 
 ## 🧰 Technical Arsenal
 
-### SIEM & Security Monitoring
+### Security Operations (SOC)
+<div>
+  <img src="https://img.shields.io/badge/-SIEM_Monitoring-6A0DAD?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Alert_Triage-FF5733?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Incident_Response-2874A6?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Threat_Detection-DC143C?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IDS%2FIPS_Monitoring-FF6F00?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-EDR-00A4EF?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Malware_Analysis-8B0000?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vulnerability_Assessment-BA4A00?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Penetration_Testing-943126?&style=for-the-badge&logoColor=white" />
+</div>
+
+### SIEM & Security Tools
 <div>
   <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security_Monitoring-6A0DAD?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-3C99DC?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Network Security
+### Network & Infrastructure
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IDS%2FIPS-FF6F00?&style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firewalls-0052CC?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TCP%2FIP-007ACC?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DNS-4B0082?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTTP%2FHTTPS-008080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VPN-6A5ACD?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firewall_Analysis-0052CC?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
 
 ### Cloud Security & Identity
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure_AD%2FEntra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MFA_&_IAM-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### Endpoint Security & Threat Detection
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MITRE_ATT&CK-FF0000?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Threat_Intelligence-FF5733?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure_AD_Domain_Services-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IAM-FF9900?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hybrid_Identity-00A4EF?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MFA-006400?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Passwordless_Auth-228B22?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Security & Penetration Testing
@@ -133,34 +149,48 @@ My transition from **Mechanical Engineering** sharpened my systems-thinking, deb
   <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-2596be?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IOC_Editor-FF4500?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Digital Forensics
 <div>
+  <img src="https://img.shields.io/badge/-Mandiant_Redline-E60000?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Autopsy-DC143C?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-FTK_Imager-008080?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-EnCase-000080?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Magnet_AXIOM-FF4500?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redline-E60000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Programming & Scripting
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?&style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-KQL-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
 ### Frameworks & Compliance
 <div>
   <img src="https://img.shields.io/badge/-MITRE_ATT&CK-FF0000?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NIST-000000?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cyber_Kill_Chain-FF5733?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SOC_2-1F618D?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NIST-000000?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-HIPAA-2874A6?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PCI--DSS-003366?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GDPR-0052CC?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISO_27001-1F618D?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SOC_2-003366?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PCI--DSS-006400?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Soft Skills
+<div>
+  <img src="https://img.shields.io/badge/-Ethical_Judgment-2E8B57?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cross_Function_Team_Collaboration-4682B4?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Effective_Communication-9932CC?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adaptability-FF8C00?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Analytical_Thinking-DC143C?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Documentation_&_Reporting-2F4F4F?&style=for-the-badge&logoColor=white" />
 </div>
 
 ---
@@ -236,6 +266,17 @@ My transition from **Mechanical Engineering** sharpened my systems-thinking, deb
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/kiransairammuntha?style=for-the-badge&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/kiransairammuntha?style=for-the-badge&logo=github)
+
+</div>
 
 ---
 
